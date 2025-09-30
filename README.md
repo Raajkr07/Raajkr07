@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Spring Boot
+🌱 **I’m currently learning:**  <br>Spring Boot, REST API, GRAPHQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love to code.
 
 
 ## 🌐 Socials:
