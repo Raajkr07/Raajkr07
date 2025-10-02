@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 **I’m currently learning:**  <br>AWS, CI/CD, DevOps.<br><br>💬 **Ask me about:**  <br>JavaScript, React, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love to code.
+🌱 **I’m currently learning:**  <br>AWS, CI/CD, DevOps.<br><br>💬 **Ask me about:**  <br>JavaScript, React, java, and any general web development questions.<br><br>⚡ **Fun fact:**  <br>I love to code.
 
 
 ## 🌐 Socials:
